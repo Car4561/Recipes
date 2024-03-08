@@ -1,0 +1,696 @@
+{
+    "recipes": [
+        {
+            "name": "Pollo a la Brasa",
+            "image": "https://peru21.pe/resizer/Aa3lJsE4bRZPkc9nlBLl8JJSsCs=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MXPWJF7DHNABHJP3W3LSJGNFY4.jpg",
+            "description": "Un delicioso pollo asado a la brasa con sabrosas especias y jugosos sabores",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Prepara el pollo: lava y seca el pollo por dentro y por fuera",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 2,
+                    "instructions": "Frota el pollo con una mezcla de sal, pimienta, paprika, ajo en polvo y comino",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 3,
+                    "instructions": "Marina el pollo durante al menos 2 horas en el refrigerador",
+                    "estimatedTime": 120
+                },
+                {
+                    "number": 4,
+                    "instructions": "Asa el pollo a la brasa a 180 grados Celsius durante 1 hora o hasta que esté dorado y jugoso",
+                    "estimatedTime": 60
+                },
+                {
+                    "number": 5,
+                    "instructions": "Deja reposar el pollo durante unos minutos antes de cortarlo",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 6,
+                    "instructions": "Sirve el pollo a la brasa caliente",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Pollo entero",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "2 cucharadas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Pimienta",
+                    "quantity": "1 cucharada",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Paprika",
+                    "quantity": "1 cucharada",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Ajo en polvo",
+                    "quantity": "1 cucharadita",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Comino",
+                    "quantity": "1 cucharadita",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -12.0464,
+                "longitude": -77.0428
+            },
+            "recipeCategory": 5
+        },{
+            "name": "Ceviche",
+            "image": "https://www.ytuqueplanes.com/imagenes/fotos/novedades/dia-del-cebiche-lima.jpg",
+            "description": "Un refrescante ceviche con mariscos, limón y especias",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Corta los mariscos en trozos pequeños y colócalos en un recipiente",
+                    "estimatedTime": 15
+                },
+                {
+                    "number": 2,
+                    "instructions": "Exprime el jugo de limón y viértelo sobre los mariscos",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 3,
+                    "instructions": "Agrega cebolla roja picada, ají o chile picado, cilantro picado y sal al gusto",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 4,
+                    "instructions": "Refrigera el ceviche durante al menos 30 minutos para que los sabores se mezclen",
+                    "estimatedTime": 30
+                },
+                {
+                    "number": 5,
+                    "instructions": "Sirve el ceviche frío y disfruta",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Mariscos variados (camarones, calamares, pescado, etc.)",
+                    "quantity": "500 gramos",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Limón",
+                    "quantity": "4-5",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cebolla roja",
+                    "quantity": "1/2",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Ají o chile",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cilantro",
+                    "quantity": "1/4 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -12.1209,
+                "longitude": -77.0295
+            },
+            "recipeCategory": 2
+        },
+        
+        {
+            "name": "Rollitos de primavera",
+            "image": "https://www.pequerecetas.com/wp-content/uploads/2011/09/rollitos-de-primavera-receta.jpg",
+            "description": "Deliciosos rollitos de primavera rellenos de vegetales y carne, ideales como plato de entrada.",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Corta finamente las verduras (zanahoria, pimiento, repollo) y la carne en tiras delgadas.",
+                    "estimatedTime": 15
+                },
+                {
+                    "number": 2,
+                    "instructions": "Mezcla las verduras y la carne en un tazón y sazona con salsa de soja, jengibre y ajo al gusto.",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 3,
+                    "instructions": "Sumerge una hoja de papel de arroz en agua caliente durante unos segundos hasta que se ablande.",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 4,
+                    "instructions": "Coloca una porción del relleno en el centro de la hoja de papel de arroz y envuélvela en forma de rollito.",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 5,
+                    "instructions": "Repite el proceso con las hojas restantes y sirve los rollitos de primavera con salsa agridulce.",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Zanahoria",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Pimiento",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Repollo",
+                    "quantity": "1/2 taza",
+                    "unit": "picado"
+                },
+                {
+                    "name": "Carne",
+                    "quantity": "200 g",
+                    "unit": "filete"
+                },
+                {
+                    "name": "Salsa de soja",
+                    "quantity": "2 cucharadas",
+                    "unit": ""
+                },
+                {
+                    "name": "Jengibre",
+                    "quantity": "1 cucharadita",
+                    "unit": "rallado"
+                },
+                {
+                    "name": "Ajo",
+                    "quantity": "2 dientes",
+                    "unit": "picados"
+                },
+                {
+                    "name": "Hojas de papel de arroz",
+                    "quantity": "8",
+                    "unit": ""
+                }
+            ],
+            "location": {
+                "latitude": -8.115,
+                "longitude": -79.03
+            },
+            "recipeCategory": 4
+        },
+        {
+            "name": "Tarta de manzana",
+            "image": "https://imag.bonviveur.com/tarta-de-manzana.jpg",
+            "description": "Una deliciosa tarta de manzana casera",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Precalienta el horno a 180 grados.",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 2,
+                    "instructions": "En un bol, mezcla la harina y la mantequilla hasta obtener una masa.",
+                    "estimatedTime": 15
+                },
+                {
+                    "number": 3,
+                    "instructions": "Extiende la masa en un molde para tarta.",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 4,
+                    "instructions": "Coloca las manzanas en la masa y espolvorea con azúcar.",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 5,
+                    "instructions": "Hornea durante 45 minutos o hasta que la tarta esté dorada.",
+                    "estimatedTime": 45
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Manzanas",
+                    "quantity": "5",
+                    "unit": "unidades"
+                },
+                {
+                    "name": "Azúcar",
+                    "quantity": "200",
+                    "unit": "gramos"
+                },
+                {
+                    "name": "Harina",
+                    "quantity": "250",
+                    "unit": "gramos"
+                },
+                {
+                    "name": "Mantequilla",
+                    "quantity": "100",
+                    "unit": "gramos"
+                }
+            ],
+            "location": {
+                "latitude": -16.409,
+                "longitude": -71.537
+            },
+            "recipeCategory": 6
+        },
+        {
+            "name": "Ensalada Caesar",
+            "image": "https://cdn0.recetasgratis.net/es/posts/1/4/0/ensalada_cesar_original_46041_orig.jpg",
+            "description": "Una refrescante ensalada Caesar.",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Lava y seca la lechuga.",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 2,
+                    "instructions": "Mezcla la lechuga con el aderezo Caesar.",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Lechuga",
+                    "quantity": "1",
+                    "unit": "cabeza"
+                },
+                {
+                    "name": "Aderezo Caesar",
+                    "quantity": "1",
+                    "unit": "bote"
+                }
+            ],
+            "location": {
+                "latitude": -6.767,
+                "longitude": -79.837
+            },
+            "recipeCategory": 1
+        },
+        {
+            "name": "Salmón a la parrilla",
+            "image": "https://todosobreelasado.com/wp-content/uploads/2019/05/salmon-a-la-parrilla.jpg",
+            "description": "Un jugoso filete de salmón a la parrilla con limón y hierbas",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Prepara el salmón con limón y hierbas",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 2,
+                    "instructions": "Cocina el salmón en la parrilla",
+                    "estimatedTime": 15
+                },
+                {
+                    "number": 3,
+                    "instructions": "Sirve con guarnición de tu elección",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Filete de salmón",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Limón",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Hierbas frescas",
+                    "quantity": "10",
+                    "unit": "gramos"
+                }
+            ],
+            "location": {
+                "latitude": -13.5319,
+                "longitude": -71.9675
+            },
+            "recipeCategory": 2
+        },
+        {
+            "name": "Sopa de tomate",
+            "image": "https://www.justspices.es/media/webp_image/recipe/resized/510x510/recipe/sopa-de-tomate-sabrosa.webp",
+            "description": "Una sopa caliente y reconfortante hecha con tomates frescos",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Cocina los tomates y otros ingredientes",
+                    "estimatedTime": 25
+                },
+                {
+                    "number": 2,
+                    "instructions": "Licúa la sopa hasta obtener una textura suave",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 3,
+                    "instructions": "Sirve caliente y decora con hierbas frescas",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Tomates",
+                    "quantity": "1 kg",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cebolla",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Ajo",
+                    "quantity": "2 dientes",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Aceite de oliva",
+                    "quantity": "2 cucharadas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Caldo de verduras",
+                    "quantity": "500 ml",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Pimienta",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Hierbas frescas (opcional)",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -12.1477,
+                "longitude": -77.0219
+            },
+            "recipeCategory": 3
+        },
+        {
+            "name": "Pastel de Chocolate",
+            "image": "https://i.ytimg.com/vi/mHyzSuNZWc4/maxresdefault.jpg",
+            "description": "Un delicioso pastel de chocolate con cobertura y decoraciones",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Prepara la masa del pastel mezclando los ingredientes secos y húmedos",
+                    "estimatedTime": 20
+                },
+                {
+                    "number": 2,
+                    "instructions": "Hornea la masa en un molde precalentado a 180 grados Celsius",
+                    "estimatedTime": 30
+                },
+                {
+                    "number": 3,
+                    "instructions": "Prepara la cobertura de chocolate derretiendo el chocolate y agregando crema",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 4,
+                    "instructions": "Cubre el pastel con la cobertura y decora con chispas de chocolate",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Harina",
+                    "quantity": "2 tazas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Azúcar",
+                    "quantity": "1 1/2 tazas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cacao en polvo",
+                    "quantity": "3/4 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Polvo para hornear",
+                    "quantity": "2 cucharaditas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "1/2 cucharadita",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Leche",
+                    "quantity": "1 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Aceite vegetal",
+                    "quantity": "1/2 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Huevos",
+                    "quantity": "2",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Chocolate para cobertura",
+                    "quantity": "200 gramos",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Crema",
+                    "quantity": "1/2 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Chispas de chocolate",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -12.065,
+                "longitude": -75.204
+            },
+            "recipeCategory": 6
+        },
+        {
+            "name": "Ceviche de Camarón",
+            "image": "https://yumlyfood.com/wp-content/uploads/2021/08/ceviche-de-camarones-colombiano.jpg.webp",
+            "description": "Un refrescante ceviche de camarón con limón, cilantro y vegetales frescos",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Pela los camarones y córtalos en trozos pequeños",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 2,
+                    "instructions": "Exprime el jugo de limón y reserva",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 3,
+                    "instructions": "En un tazón, mezcla los camarones con el jugo de limón y déjalos marinar durante 15 minutos",
+                    "estimatedTime": 15
+                },
+                {
+                    "number": 4,
+                    "instructions": "Agrega cebolla roja picada, tomate picado, cilantro picado, ají o chile picado y sal al gusto",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 5,
+                    "instructions": "Refrigera el ceviche durante al menos 30 minutos para que los sabores se mezclen",
+                    "estimatedTime": 30
+                },
+                {
+                    "number": 6,
+                    "instructions": "Sirve el ceviche de camarón frío y disfruta",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Camarones",
+                    "quantity": "500 gramos",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Limón",
+                    "quantity": "4-5",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cebolla roja",
+                    "quantity": "1/2",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Tomate",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cilantro",
+                    "quantity": "1/4 taza",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Ají o chile",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -5.194,
+                "longitude": -80.632
+            },
+            "recipeCategory": 2
+        }
+        
+        ,
+        {
+            "name": "Pollo al Curry",
+            "image": "https://assets.unileversolutions.com/recipes-v2/34403.jpg",
+            "description": "Un sabroso plato de pollo cocinado en una deliciosa salsa de curry",
+            "steps": [
+                {
+                    "number": 1,
+                    "instructions": "Corta el pollo en trozos y sazónalos con sal y pimienta",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 2,
+                    "instructions": "En una sartén grande, calienta el aceite y agrega la cebolla picada y el ajo, cocinándolos hasta que estén dorados",
+                    "estimatedTime": 5
+                },
+                {
+                    "number": 3,
+                    "instructions": "Añade el pollo y cocínalo hasta que esté dorado por todos lados",
+                    "estimatedTime": 8
+                },
+                {
+                    "number": 4,
+                    "instructions": "Agrega la pasta de curry, la leche de coco y los vegetales de tu elección",
+                    "estimatedTime": 10
+                },
+                {
+                    "number": 5,
+                    "instructions": "Cocina a fuego lento durante 15-20 minutos, hasta que el pollo esté bien cocido y la salsa tenga la consistencia deseada",
+                    "estimatedTime": 20
+                },
+                {
+                    "number": 6,
+                    "instructions": "Sirve el pollo al curry caliente acompañado de arroz",
+                    "estimatedTime": 5
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Pollo",
+                    "quantity": "500 gramos",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Cebolla",
+                    "quantity": "1",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Ajo",
+                    "quantity": "3 dientes",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Aceite vegetal",
+                    "quantity": "2 cucharadas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Pasta de curry",
+                    "quantity": "2 cucharadas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Leche de coco",
+                    "quantity": "1 lata",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Vegetales variados (pimientos, zanahorias, guisantes, etc.)",
+                    "quantity": "2 tazas",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Pimienta",
+                    "quantity": "al gusto",
+                    "unit": "unidad"
+                },
+                {
+                    "name": "Arroz",
+                    "quantity": "2 tazas",
+                    "unit": "unidad"
+                }
+            ],
+            "location": {
+                "latitude": -7.163,
+                "longitude": -78.5
+            },
+            "recipeCategory": 5
+        }
+    ]
+}
