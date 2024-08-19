@@ -18,3 +18,7 @@ enum RecipesResource: Resource {
         }
     }
 }
+
+final class claseSensible {
+    
+}
